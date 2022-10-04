@@ -34,7 +34,7 @@ TEMP_DOWNLOAD_DIRECTORY = "./"
 
 ###Mogondb Functions # You can use pymongo module also
 
-DB_URL = "mongodb+srv://rashmikatg:aaaa1111@cluster0.zrvwy4n.mongodb.net/?retryWrites=true&w=majority"
+DB_URL = ""
 
 mongo = MongoClient(DB_URL)
 mongodb = mongo.bot 
